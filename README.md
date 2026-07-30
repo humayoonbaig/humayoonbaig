@@ -14,8 +14,3 @@ Ask me about RAG architectures, time series forecasting, or what it's like going
 # 📊 GitHub Stats
 
 ![](https://github-readme-stats.shion.dev/api?username=humayoonbaig&theme=dark&hide_border=true&show_icons=true)
-
-![](https://streak-stats.demolab.com/?user=humayoonbaig&theme=dark&hide_border=true)
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=humayoonbaig&theme=dark&hide_border=true&layout=compact)
-
